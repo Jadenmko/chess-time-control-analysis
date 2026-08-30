@@ -24,5 +24,5 @@ it becomes a measurable factor in Classical games.
 ![Sample Size per Bin](chart2_sample_size.png)
 
 ## Full Writeup
-See [writeup.txt](writeup.txt) for the complete analysis and recommendation.
+See [writeup.md](writeup.md) for the complete analysis and recommendation.
 
